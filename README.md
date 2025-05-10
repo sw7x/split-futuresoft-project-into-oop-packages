@@ -122,9 +122,9 @@ two methods
 | Project assigned dev, PM, Manager, Owner | thread to each project. can post and see messages in that thread |
 | Task assigned dev, Project assigned PM, Manager, Owner| thread to each Task.can post and see messages in that thread |
 
-~~message                => Attach documents, screenshots, or file to each~~
-~~project thread message => Attach documents, screenshots, or file to each~~
-~~task thread message    => Attach documents, screenshots, or file to each~~
+~~message                => Attach documents, screenshots, or file to each~~  
+~~project thread message => Attach documents, screenshots, or file to each~~  
+~~task thread message    => Attach documents, screenshots, or file to each~~  
 ***
 
 ### Reporting module
