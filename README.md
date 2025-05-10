@@ -22,7 +22,6 @@ two methods
 - for each module tasks seperate class diagrsms
 		- module task list
 		- module class diagram
-
 - mention for each module use cases, entity attr, entity behaviours
 
 
