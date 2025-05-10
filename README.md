@@ -191,13 +191,7 @@ two methods
 
 
 
-
-| Column 1     | Column 2     | Column 3     |
-|--------------|--------------|--------------|
-| Row 1 Cell 1 | Cell 2       | Cell 3       |
-| Row 2 Cell 1 | Cell 2       | Cell 3       |
-
-
+## Table 2 
 | Authorized | Description |
 | --- | --- |
 | PM,CEO | project wise => Color-coded Task Status Visualization by progress (e.g., Not Started, In Progress, Done, Blocked). |
