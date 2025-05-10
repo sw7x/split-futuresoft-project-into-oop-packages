@@ -13,7 +13,7 @@ two methods
 <img src="./diagrams/cls.png">
 
 
-## Process 1 - draw class diagram for whole diagram for the project and divide it into modules
+## Process 1 - Overall class diagram diagram split it into modules
 - mark each package in overall class diagram
 - mention for each module use cases, entity attr, entity behaviours
 
