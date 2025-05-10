@@ -95,7 +95,10 @@ two methods
 
 | Authorized | Description |
 | --- | --- |
-| | managing General information of the users <ul><li>Owner can manage manager, Developers and PM’s general information.</li><li>Manager can manage Developers and PM’s general information</li><li>Anyone can manage his/her own account general information</li></ul> |
+| | managing General information of the users |
+| Owner | manage manager, Developers and PM’s general information |
+| Manager | manage Developers and PM’s general information |
+| | Anyone can manage his/her own account general information |
 | |
 | | Manage Emp. Salary information, Employee hourly rate(monthly salary/22days*8 hours), EPF-ETF details and Education Qualifications |
 | Owner | manage above details of Manager, Developers and  PM’s |
