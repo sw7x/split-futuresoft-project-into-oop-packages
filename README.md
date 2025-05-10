@@ -107,6 +107,7 @@ two methods
 | --- | --- |
 | Owner | Manage designation hierarchy |
 | Owner | Manage designation ,sub designation information |
+| |
 | | admin level users can manage designations of users |
 | Owner | Manage designation of manager, PM’s and Developers |
 | Manager | Manage designation of PM’s and Developers |
