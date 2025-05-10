@@ -13,11 +13,6 @@ two methods
 <img src="./diagrams/cls.png">
 
 
-====1=====
-project req
-er
-whole class diagram
-
 ----1----------
 package anuuwa whole class diagram eka mark kirima
 
@@ -28,7 +23,6 @@ for each module use cases , entity attr, entity behaviours
 
 ------2----------
 for each module tasks seperate class diagrsms
-
 	- module task list
 	- module class diagram
 
