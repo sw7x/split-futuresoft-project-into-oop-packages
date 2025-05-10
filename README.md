@@ -14,16 +14,15 @@ two methods
 
 
 ## Process 1 - draw class diagram for whole diagram for the project and divide it into modules
-	mark each package in overall class diagram
-
-	mention for each module use cases, entity attr, entity behaviours
+- mark each package in overall class diagram
+- mention for each module use cases, entity attr, entity behaviours
 
 
 ## Process 2 - draw seperate class diagrams for each module
-	for each module tasks seperate class diagrsms
+- for each module tasks seperate class diagrsms
 		- module task list
 		- module class diagram
 
-	mention for each module use cases, entity attr, entity behaviours
+- mention for each module use cases, entity attr, entity behaviours
 
 
