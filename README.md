@@ -196,3 +196,9 @@ two methods
 |--------------|--------------|--------------|
 | Row 1 Cell 1 | Cell 2       | Cell 3       |
 | Row 2 Cell 1 | Cell 2       | Cell 3       |
+
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
