@@ -8,32 +8,7 @@ two methods
 
 ## Requirments
 
-### project management module
-    owner--> Create project profile with Client information
-    owner--> Add project Details to project profile
-    owner--> Add Scheduled Dates to project profile such as Delivery Date, deadline
-    owner--> Categorize Projects as local or foreign.
-    owner--> managing project profile.
-    manager, pm, assigned Dev --> can view project profile   
-    project statuses: Initiated, In Progress, On Hold, Completed, Cancelled.
-
-	#### project timeline
-	    set,Display Scheduled Milestones for the project
-	    set,Display Actual Duration of Milestones for the project
-	    mark complete for Actual Milestones of the project
-
-
-	#### Project Costing
-	    Manager, Owner, Assigned PM --> Add costing factors and cost.
-	    manager, owner, A.pm --> Calculate Employee cost (Employee cost  = employee cost rate * time)
-	    manager, owner, A.pm --> Calculate total Cost.
-	    manager, owner, A.pm --> Adding incomes to the project cost profile.
-	    manager, owner, A.pm --> deduct income amount from cost.(Calculating profit)
-	    manager, owner, A.pm --> list income, costs , filter by (incomes, costs) 
-
-
-
-## Project management module 
+### Project management module 
 | Authorized | Description |
 | --- | --- |
 | Owner | Create project profile with Client information |
@@ -51,7 +26,7 @@ two methods
 | |
 | | **Project costing** |
 | Manager, Owner, Assigned PM | Add costing factors and cost |
-| Manager, Owner, Assigned PM | Calculate Employee cost (Employee cost  = employee cost rate * time) Calculate Employee cost (Employee cost  = employee cost rate * time) Calculate Employee cost (Employee cost  = employee cost rate * time) Calculate Employee cost (Employee cost  = employee cost rate * time) |
+| Manager, Owner, Assigned PM | Calculate Employee cost (Employee cost  = employee cost rate * time) |
 | Manager, Owner, Assigned PM | Calculate total Cost |
 | Manager, Owner, Assigned PM | Add incomes to the project cost profile |
 | Manager, Owner, Assigned PM | deduct income amount from cost.(Calculating profit) |
