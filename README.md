@@ -2,8 +2,8 @@
 what we going to do and .....
 
 two methods 
-	1. draw overall class diagram for the poroject and divide it into modules
-	2. draw seperate class diagrams for each module
+1. draw overall class diagram for the poroject and divide it into modules
+2. draw seperate class diagrams for each module
 
 
 ## ER diagram
