@@ -65,6 +65,8 @@ two methods
 | | Add priority levels (High, Medium, Low) and allow sorting/filtering |
 | | Attach documents, screenshots, or specifications to each task |
 
+***
+
 ### Task Progress Monitoring Module
     project wise => Color-coded Task Status Visualization by progress (e.g., Not Started, In Progress, Done, Blocked).
     show percentages for each progress level
@@ -80,6 +82,23 @@ two methods
     show  recent tasks that exceed the deadline
 
     //task => Attach documents, screenshots, or file to each task.
+
+
+| Authorized | Description |
+| --- | --- |
+| | project wise => Color-coded Task Status Visualization by progress (e.g., Not Started, In Progress, Done, Blocked) |
+| | show percentages for each progress level |
+| | Project Completion % = (Number of Done tasks/Total number of tasks) * 100% |
+| | project wise => view tasks exceed the deadline/ ontime/before time/near to deadline |
+
+| PM, Owner, Manager, Assigned Dev | View Project progress in tasks |
+| PM, Owner, Manager | calculat and show Project Estimate time.(WHEN ALL TASK EST TIME SET) |
+| |
+| | ~~show  recent tasks that complete~~ |
+| | show  recent tasks that have to complete(near deadline) |
+| | show  recent tasks that exceed the deadline |
+
+~~task => Attach documents, screenshots, or file to each task~~  
 
 ***
 
@@ -138,6 +157,7 @@ two methods
 ~~message                => Attach documents, screenshots, or file to each~~  
 ~~project thread message => Attach documents, screenshots, or file to each~~  
 ~~task thread message    => Attach documents, screenshots, or file to each~~  
+
 ***
 
 ### Reporting module
