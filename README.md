@@ -14,18 +14,16 @@ two methods
 
 
 ## Process 1 - draw whole diagram for the poroject and divide it onto module
-package anuuwa whole class diagram eka mark kirima
+	package anuuwa whole class diagram eka mark kirima
 
-for each module use cases , entity attr, entity behaviours
----------------
-
+	for each module use cases , entity attr, entity behaviours
 
 
 ## Process 2 - draw seperate class diagrams for each module
-for each module tasks seperate class diagrsms
-	- module task list
-	- module class diagram
+	for each module tasks seperate class diagrsms
+		- module task list
+		- module class diagram
 
-for each module use cases , entity attr, entity behaviours
----------------
+	for each module use cases , entity attr, entity behaviours
+
 
