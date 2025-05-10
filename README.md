@@ -35,13 +35,6 @@ two methods
 ***
 
 ### Task Management Module
-    assigned PM-->Divide project into sub tasks that consist of maximum three levels.        
-    pm-->set Estimate time, Delivery date to the Tasks        
-    dev-->Submit task with Spend time and additional comment.(done/cannot done)    
-    view task info(including delivery status)
-    Add priority levels (High, Medium, Low) and allow sorting/filtering.
-    Attach documents, screenshots, or specifications to each task.
-
 | Authorized | Description |
 | --- | --- |
 | Assigned PM | Divide project into sub tasks that consist of maximum three levels. |
@@ -75,6 +68,12 @@ two methods
     manager,owner--> view all users timesheets(monthly,weekly)
     can Mark leave days in timesheet.
 
+| Authorized | Description |
+| --- | --- |
+| PM, Dev | manage time sheets for weekly basis |
+| Manager, Owner | approve all users timesheets |
+| Manager, Owner | view all users timesheets(monthly,weekly) |
+| | can Mark leave days in timesheet |
 ***
 
 ### User management module	 
