@@ -68,22 +68,6 @@ two methods
 ***
 
 ### Task Progress Monitoring Module
-    project wise => Color-coded Task Status Visualization by progress (e.g., Not Started, In Progress, Done, Blocked).
-    show percentages for each progress level
-    Project Completion % = (Number of Done tasks/Total number of tasks) * 100%
-
-    project wise => view tasks exceed the deadline/ ontime/before time/near to deadline
-
-    pm,owner,manager,ASSIGEND EMP--> view Project progress in tasks.
-    (owner, manager,pm--> calculat and show Project Estimate time.(WHEN ALL TASK EST TIME SET)
-
-    //show  recent tasks that complete
-    show  recent tasks that have to complete(near deadline)  
-    show  recent tasks that exceed the deadline
-
-    //task => Attach documents, screenshots, or file to each task.
-
-
 | Authorized | Description |
 | --- | --- |
 | | project wise => Color-coded Task Status Visualization by progress (e.g., Not Started, In Progress, Done, Blocked) |
