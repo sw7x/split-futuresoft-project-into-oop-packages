@@ -107,15 +107,6 @@ two methods
 ***
 
 ### Communication module
-    Users shall be able pass private messages to other users(Able to upload files with private messages)
-    assigned dev, PM, manager and owner => thread to each project. can post and see messages in that thread.
-    Task assigned devloper, project assigned Pm, owner and manager =>thread to each Task.can post and see messages in that thread.
-
-    //message                => Attach documents, screenshots, or file to each.
-    //project thread message => Attach documents, screenshots, or file to each.
-    //task thread message    => Attach documents, screenshots, or file to each.
-
-
 | Authorized | Description |
 | --- | --- |
 | | Users shall be able pass private messages to other users(Able to upload files with private messages) |
@@ -151,20 +142,17 @@ two methods
 
 ***
 
-### leave management module
-    employees can apply leave
-    employees can discard applied leave
-    manager can approve/disapprove leave
-    show  recent leaves
-    show  leaves monthly, given date range
-
-    leave types(medical(15), Casual(10), Annual(10).) and track limits per type.
-
-	leaves filter by month
-	Leave Calendar -  Display team availability in calendar view.
-
-
-	pm,Dev - yearly leaves 30 
+### Leave management module
+| Authorized | Description |
+| --- | --- |
+| | PM,Dev can apply leave |
+| | PM,Dev can discard applied leave |
+| | Manager can approve/disapprove leave |
+| | Show  recent leaves |
+| | Show  leaves monthly, given date range |
+| | Leave types(medical(15), Casual(10), Annual(10) per year) and track limits per type |
+| | Leaves filter by month |
+| | Leave Calendar -  Display team availability in calendar view |
 
 ***
 
