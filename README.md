@@ -199,8 +199,19 @@ two methods
 
 | Authorized | Description |
 | --- | --- |
-| | PM,Dev can apply leave |
-
+| Owner, Manager| Assign PM for a project |
+| | When PROJ is assigned to a PM system shall be able to notify it to the assigned PM |
+| | Before assigning PM to project → check if the PM is already assigned to other projects in the same time frame |
+| |
+| Project assigned PM | Assign Devs for a project |
+| | When PROJ is assigned to a DEV system shall be able to notify it to the assigned user |
+| | Before assigning a DEV to a project → check if the DEV is already assigned to another project in the same time frame |
+| Project assigned PM | Assign Tasks for Dev(project tasks for project assigned Dev) |
+| | Before assigning a task → check if the DEV has a leave request overlapping with delivery date |
+| | Before assigning a task → check if the Dev is already assigned to other tasks in the same time frame |
+| |
+| PM, Manager | Resource Availability Chart Who is available, busy(task count), or on leave |
+| PM, Manager | Developer Workload Report =>  show selected Dev assigned tasks  and their deadlines, estimated times, their statues, already spend time spent |
 
 
 ***
