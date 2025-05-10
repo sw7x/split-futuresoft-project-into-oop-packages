@@ -206,6 +206,7 @@ two methods
 | Project assigned PM | Assign Devs for a project |
 | | When PROJ is assigned to a DEV system shall be able to notify it to the assigned user |
 | | Before assigning a DEV to a project → check if the DEV is already assigned to another project in the same time frame |
+| |
 | Project assigned PM | Assign Tasks for Dev(project tasks for project assigned Dev) |
 | | Before assigning a task → check if the DEV has a leave request overlapping with delivery date |
 | | Before assigning a task → check if the Dev is already assigned to other tasks in the same time frame |
