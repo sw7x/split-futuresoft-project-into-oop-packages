@@ -17,26 +17,21 @@ two methods
     manager, pm, assigned Dev --> can view project profile   
     project statuses: Initiated, In Progress, On Hold, Completed, Cancelled.
 
-
-    project timeline
+    #### project timeline
         set,Display Scheduled Milestones for the project
         set,Display Actual Duration of Milestones for the project
         mark complete for Actual Milestones of the project
 
 
-
-
-    //Project Costing Module
+    #### Project Costing
         manager,owner,A.pm --> Add costing factors and cost.
         manager,owner,A.pm --> Calculate Employee cost (Employee cost  = employee cost rate* time)
         manager,owner,A.pm --> Calculate total Cost.
         manager,owner,A.pm --> Adding incomes to the project cost profile.
         manager,owner,A.pm --> deduct income amount from cost.(Calculating profit)
-
         list income, costs , filter by (incomes, costs) 
 
 ***
-
 
 ### Task Management Module
     assigned PM-->Divide project into sub tasks that consist of maximum three levels.        
@@ -56,7 +51,6 @@ two methods
     pm,owner,manager,ASSIGEND EMP--> view Project progress in tasks.
     (owner, manager,pm--> calculat and show Project Estimate time.(WHEN ALL TASK EST TIME SET)
 
-
     //show  recent tasks that complete
     show  recent tasks that have to complete(near deadline)  
     show  recent tasks that exceed the deadline
@@ -66,11 +60,10 @@ two methods
 ***
 
 ### Timesheet management
-        pm,emp--> manage time sheets for weekly basis
-        manager,owner--> approve all users timesheets  
-        manager,owner--> view all users timesheets(monthly,weekly)
-
-        can Mark leave days in timesheet.
+    pm,emp--> manage time sheets for weekly basis
+    manager,owner--> approve all users timesheets  
+    manager,owner--> view all users timesheets(monthly,weekly)
+    can Mark leave days in timesheet.
 
 ***
 
@@ -130,7 +123,6 @@ two methods
         //show  recent tasks that have to complete  
         //show  recent tasks that exceed the deadline  
 
-
     Deadline Calendar View
         view of project deadlines in Today, week, Month. 
         view of tasks deadlines in Today, week, Month.  
@@ -151,11 +143,11 @@ two methods
 
     leave types(medical(15), Casual(10), Annual(10).) and track limits per type.
 
-leaves filter by month
-Leave Calendar -  Display team availability in calendar view.
+	leaves filter by month
+	Leave Calendar -  Display team availability in calendar view.
 
 
-pm,Dev - yearly leaves 30 
+	pm,Dev - yearly leaves 30 
 
 ***
 
