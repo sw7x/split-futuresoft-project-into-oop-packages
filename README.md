@@ -17,19 +17,19 @@ two methods
     manager, pm, assigned Dev --> can view project profile   
     project statuses: Initiated, In Progress, On Hold, Completed, Cancelled.
 
-#### project timeline
-    set,Display Scheduled Milestones for the project
-    set,Display Actual Duration of Milestones for the project
-    mark complete for Actual Milestones of the project
+	#### project timeline
+	    set,Display Scheduled Milestones for the project
+	    set,Display Actual Duration of Milestones for the project
+	    mark complete for Actual Milestones of the project
 
 
-#### Project Costing
-    manager,owner,A.pm --> Add costing factors and cost.
-    manager,owner,A.pm --> Calculate Employee cost (Employee cost  = employee cost rate* time)
-    manager,owner,A.pm --> Calculate total Cost.
-    manager,owner,A.pm --> Adding incomes to the project cost profile.
-    manager,owner,A.pm --> deduct income amount from cost.(Calculating profit)
-    list income, costs , filter by (incomes, costs) 
+	#### Project Costing
+	    manager,owner,A.pm --> Add costing factors and cost.
+	    manager,owner,A.pm --> Calculate Employee cost (Employee cost  = employee cost rate* time)
+	    manager,owner,A.pm --> Calculate total Cost.
+	    manager,owner,A.pm --> Adding incomes to the project cost profile.
+	    manager,owner,A.pm --> deduct income amount from cost.(Calculating profit)
+	    list income, costs , filter by (incomes, costs) 
 
 ***
 
