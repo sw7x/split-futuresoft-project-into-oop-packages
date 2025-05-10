@@ -73,26 +73,6 @@ two methods
 ***
 
 ### User management module	 
-    managing General information of the users
-    •   Owner can manage manager, Developers and PM’s general information.
-    •   Manager can manage Developers and PM’s general information.
-    •   Anyone can manage his/her own account general information.
-
-    manager,owner-->Manage Emp. Salary information, Employee hourly rate(monthly salary/22days*8 hours), EPF-ETF details and 
-    Education Qualifications
-    •   Manager can manage above details of Developers and  PM
-    •   Company owner can manage above details of Manager, Developers and  PM’s
-
-    Admin level users can manage other user accounts (CRUD,working/resign manage)
-    •   Manager can create, delete and change working status of Developers and PM’s
-    •   Company owner can create, delete and change working status of manager, Developers and PM’s.
-
-    developer,PM -  manage skill list.
-
-	//>system shall give Users authenticate
-	//>system shall be able given appropriate privileges according to their user role.
-     
-
 | Authorized | Description |
 | --- | --- |
 | | managing General information of the users |
