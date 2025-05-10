@@ -17,12 +17,12 @@ two methods
 | Owner | Categorize Projects as local or foreign |
 | Owner | Managing project profile |
 | Owner, Manager, PM, Assigned Dev | View project profile |
-|  | project statuses: Initiated, In Progress, On Hold, Completed, Cancelled. |
+| | project statuses: Initiated, In Progress, On Hold, Completed, Cancelled. |
 | |
 | | **Project timeline** |
-|  | set,Display Scheduled Milestones for the project |
-|  | set,Display Actual Duration of Milestones for the project |
-|  | mark complete for Actual Milestones of the project |
+| | set,Display Scheduled Milestones for the project |
+| | set,Display Actual Duration of Milestones for the project |
+| | mark complete for Actual Milestones of the project |
 | |
 | | **Project costing** |
 | Manager, Owner, Assigned PM | Add costing factors and cost |
@@ -141,6 +141,26 @@ two methods
 
     yearly calendar - show Planned and actual duration of the projects plotted throughout the year
 
+
+
+| Authorized | Description |
+| --- | --- |
+| PM, Manager, Owner | view employee(developer/pm) Project wise timing (spend time, schedule time) |
+| PM, Manager, Owner | view Designation wise spend time for a project (spend time, schedule time) |
+| |
+| | show  recent projects that engaged in with deadlines|
+| | show  recent projects that completed|
+| | show  recent projects that delayed with deadlines |
+| | show  recent tasks that complete |
+| | ~~show  recent tasks that have to complete~~ |
+| | ~~show  recent tasks that exceed the deadline~~ |
+| |
+| | **Deadline Calendar View** |
+| | view of project deadlines in Today, week, Month |
+| | view of tasks deadlines in Today, week, Month |
+| |
+| | Developer monthly efficincy report - tasks delayed, tasks on time, tasks before time |
+| | yearly calendar - show Planned and actual duration of the projects plotted throughout the year |
 ***
 
 ### Leave management module
