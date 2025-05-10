@@ -19,10 +19,9 @@ two methods
 
 
 ## Process 2 - draw seperate class diagrams for each module
-- for each module tasks seperate class diagrsms
-		- module task list
-		- module class diagram
-
+- for each module tasks seperate class diagrams
+    - module task list
+    - module class diagram
 - mention for each module use cases, entity attr, entity behaviours
 
 
