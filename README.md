@@ -63,17 +63,13 @@ two methods
 ***
 
 ### Timesheet management
-    pm,emp--> manage time sheets for weekly basis
-    manager,owner--> approve all users timesheets  
-    manager,owner--> view all users timesheets(monthly,weekly)
-    can Mark leave days in timesheet.
-
 | Authorized | Description |
 | --- | --- |
 | PM, Dev | manage time sheets for weekly basis |
 | Manager, Owner | approve all users timesheets |
 | Manager, Owner | view all users timesheets(monthly,weekly) |
 | | can Mark leave days in timesheet |
+
 ***
 
 ### User management module	 
@@ -105,6 +101,15 @@ two methods
     admin level users can manage designations of users
     •   Owner can manage designation of manager, PM’s and Developers.
     •   Manager can manage designation of PM’s and Developers.
+
+
+| Authorized | Description |
+| --- | --- |
+| Owner | Manage designation hierarchy |
+| Owner | Manage designation ,sub designation information |
+| | admin level users can manage designations of users |
+| Owner | Manage designation of manager, PM’s and Developers |
+| Manager | Manage designation of PM’s and Developers |
 
 ***
 
