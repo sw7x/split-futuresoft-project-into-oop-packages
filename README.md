@@ -98,9 +98,17 @@ two methods
 | | managing General information of the users <ul><li>Owner can manage manager, Developers and PM’s general information.</li><li>Manager can manage Developers and PM’s general information</li><li>Anyone can manage his/her own account general information</li></ul> |
 | |
 | | Manage Emp. Salary information, Employee hourly rate(monthly salary/22days*8 hours), EPF-ETF details and Education Qualifications |
+| Owner | manage above details of Manager, Developers and  PM’s |
 | Manager | manage above details of Developers and PM |
-| Owner| manage above details of Manager, Developers and  PM’s |
+| |
+| | Admin level users can manage other user accounts (CRUD,working/resign manage) |
+| Owner | create, delete and change working status of manager, Developers and PM’s |
+| Manager | create, delete and change working status of Developers and PM’s |
+| |
+| Dev, PM | Manage their skill list |
 
+~~system shall give Users authenticate~~  
+~~system shall be able given appropriate privileges according to their user role~~  
 
 ***
 
