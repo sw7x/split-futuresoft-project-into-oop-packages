@@ -2,6 +2,17 @@
 
 - [Description](#description)
 - [Requirments](#requirments)
+	- [Project management module](#project-management-module)
+	- [Task Management Module](#task-management-Module)
+	- [Task Progress Monitoring Module](#task-progress-monitoring-module)
+	- [Timesheet management](#timesheet-management)
+	- [User management module](#user-management-module)
+	- [Designation Management](#designation-management)
+	- [Communication module](#communication-module)
+	- [Reporting module](#reporting-module)
+	- [Leave management module](#leave-management-module)
+	- [Resource Management Module](#resource-management-module)
+
 - [ER diagram](#er-diagram)
 - [Overall class diagram](#overall-class-diagram)
 - [Process 1](#process-1)
@@ -202,13 +213,13 @@ two methods
 
 
 ## Process 1 
-### Overall class diagram diagram split it into modules
+Overall class diagram diagram split it into modules
 - mark each package in overall class diagram
 - mention for each module use cases, entity attr, entity behaviours
 
 
 ## Process 2
-### Draw seperate class diagrams for each module
+Draw seperate class diagrams for each module
 - for each module tasks seperate class diagrams
     - module task list
     - module class diagram
