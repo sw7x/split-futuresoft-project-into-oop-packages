@@ -204,6 +204,7 @@ two methods
 | PM,Dev | Show file differences that haven't been staged |
 | PM,Dev | Before assigning a DEV to a project → check if the DEV is already assigned to another project in the same time frame. |
 | PM,Dev | Before assigning a DEV to a project → check if the DEV is already assigned to another project in the same time frame. the DEV is already assigned to another project in the same the DEV is already assigned to another project in the same the DEV is already assigned to another project in the same |
+| |
 | | **Project timeline** |
 | PM,CEO | project wise => Color-coded Task Status Visualization by progress (e.g., Not Started, In Progress, Done, Blocked). |
 | PM,Dev | Show file differences that haven't been staged |
