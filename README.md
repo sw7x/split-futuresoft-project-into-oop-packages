@@ -42,6 +42,15 @@ two methods
     Add priority levels (High, Medium, Low) and allow sorting/filtering.
     Attach documents, screenshots, or specifications to each task.
 
+| Authorized | Description |
+| --- | --- |
+| Assigned PM | Divide project into sub tasks that consist of maximum three levels. |
+| PM | set Estimate time, Delivery date to the Tasks |
+| Dev | Submit task with Spend time and additional comment.(done/cannot done) |
+| | view task info(including delivery status) |
+| | Add priority levels (High, Medium, Low) and allow sorting/filtering |
+| | Attach documents, screenshots, or specifications to each task |
+
 ### Task Progress Monitoring Module
     project wise => Color-coded Task Status Visualization by progress (e.g., Not Started, In Progress, Done, Blocked).
     show percentages for each progress level
