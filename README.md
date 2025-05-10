@@ -18,7 +18,7 @@ two methods
 - mention for each module use cases, entity attr, entity behaviours
 
 
-## Process 2 - draw seperate class diagrams for each module
+## Process 2 - Draw seperate class diagrams for each module
 - for each module tasks seperate class diagrams
     - module task list
     - module class diagram
