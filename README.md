@@ -24,12 +24,38 @@ two methods
 
 
 	#### Project Costing
-	    manager,owner,A.pm --> Add costing factors and cost.
-	    manager,owner,A.pm --> Calculate Employee cost (Employee cost  = employee cost rate* time)
-	    manager,owner,A.pm --> Calculate total Cost.
-	    manager,owner,A.pm --> Adding incomes to the project cost profile.
-	    manager,owner,A.pm --> deduct income amount from cost.(Calculating profit)
-	    list income, costs , filter by (incomes, costs) 
+	    Manager, Owner, Assigned PM --> Add costing factors and cost.
+	    manager, owner, A.pm --> Calculate Employee cost (Employee cost  = employee cost rate * time)
+	    manager, owner, A.pm --> Calculate total Cost.
+	    manager, owner, A.pm --> Adding incomes to the project cost profile.
+	    manager, owner, A.pm --> deduct income amount from cost.(Calculating profit)
+	    manager, owner, A.pm --> list income, costs , filter by (incomes, costs) 
+
+
+
+## Project management module 
+| Authorized | Description |
+| --- | --- |
+| Owner | Create project profile with Client information |
+| Owner | Add project Details to project profile |
+| Owner | Add Scheduled Dates to project profile such as Delivery Date, deadline |
+| Owner | Categorize Projects as local or foreign |
+| Owner | Managing project profile |
+| Owner, Manager, PM, Assigned Dev | View project profile |
+|  | project statuses: Initiated, In Progress, On Hold, Completed, Cancelled. |
+| |
+| | **Project timeline** |
+|  | set,Display Scheduled Milestones for the project |
+|  | set,Display Actual Duration of Milestones for the project |
+|  | mark complete for Actual Milestones of the project |
+| |
+| | **Project costing** |
+| Manager, Owner, Assigned PM | Add costing factors and cost |
+| Manager, Owner, Assigned PM | Calculate Employee cost (Employee cost  = employee cost rate * time) |
+| Manager, Owner, Assigned PM | Calculate total Cost |
+| Manager, Owner, Assigned PM | Add incomes to the project cost profile |
+| Manager, Owner, Assigned PM | deduct income amount from cost.(Calculating profit) |
+| Manager, Owner, Assigned PM | list income, costs , filter by (incomes, costs) |
 
 ***
 
