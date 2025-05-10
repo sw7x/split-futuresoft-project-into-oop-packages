@@ -120,29 +120,6 @@ two methods
 ***
 
 ### Reporting module
-    PM, manager and owner => view employee(developer/pm) Project wise timing (spend time, schedule time)
-    PM, manager and owner => view Designation wise spend time for a project (spend time, schedule time)
-
-    Dashboard page
-        show  recent projects that engaged in with deadlines
-        show  recent projects that completed
-        show  recent projects that delayed with deadlines
-
-        show  recent tasks that complete
-        //show  recent tasks that have to complete  
-        //show  recent tasks that exceed the deadline  
-
-    Deadline Calendar View
-        view of project deadlines in Today, week, Month. 
-        view of tasks deadlines in Today, week, Month.  
-
-    Developer monthly efficincy report
-        tasks delayed, tasks on time, tasks before time
-
-    yearly calendar - show Planned and actual duration of the projects plotted throughout the year
-
-
-
 | Authorized | Description |
 | --- | --- |
 | PM, Manager, Owner | view employee(developer/pm) Project wise timing (spend time, schedule time) |
