@@ -1,6 +1,6 @@
 ## Table of Contents
 
-- [Description](#description)
+- [Introduction](#introduction)
 - [Requirments](#requirments)
 	- [Project management module](#project-management-module)
 	- [Task Management Module](#task-management-Module)
@@ -19,7 +19,7 @@
 - [Process 2](#process-2)
 
 
-## description
+## Introduction
 what we going to do and .....
 
 two methods 
@@ -224,17 +224,3 @@ Draw seperate class diagrams for each module
     - module task list
     - module class diagram
 - mention for each module use cases, entity attr, entity behaviours
-
-
-
-## Table 2 
-| Authorized | Description |
-| --- | --- |
-| PM,CEO | project wise => Color-coded Task Status Visualization by progress (e.g., Not Started, In Progress, Done, Blocked). |
-| PM,Dev | Show file differences that haven't been staged |
-| PM,Dev | Before assigning a DEV to a project → check if the DEV is already assigned to another project in the same time frame. |
-| PM,Dev | Before assigning a DEV to a project → check if the DEV is already assigned to another project in the same time frame. the DEV is already assigned to another project in the same the DEV is already assigned to another project in the same the DEV is already assigned to another project in the same |
-| |
-| | **Project timeline** |
-| PM,CEO | project wise => Color-coded Task Status Visualization by progress (e.g., Not Started, In Progress, Done, Blocked). |
-| PM,Dev | Show file differences that haven't been staged |
