@@ -51,7 +51,7 @@ two methods
 | |
 | | **Project costing** |
 | Manager, Owner, Assigned PM | Add costing factors and cost |
-| Manager, Owner, Assigned PM | Calculate Employee cost (Employee cost  = employee cost rate * time) |
+| Manager, Owner, Assigned PM | Calculate Employee cost (Employee cost  = employee cost rate * time) Calculate Employee cost (Employee cost  = employee cost rate * time) Calculate Employee cost (Employee cost  = employee cost rate * time) Calculate Employee cost (Employee cost  = employee cost rate * time) |
 | Manager, Owner, Assigned PM | Calculate total Cost |
 | Manager, Owner, Assigned PM | Add incomes to the project cost profile |
 | Manager, Owner, Assigned PM | deduct income amount from cost.(Calculating profit) |
