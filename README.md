@@ -91,7 +91,16 @@ two methods
 
 	//>system shall give Users authenticate
 	//>system shall be able given appropriate privileges according to their user role.
-        
+     
+
+| Authorized | Description |
+| --- | --- |
+| | managing General information of the users |
+| | <ul><li>Owner can manage manager, Developers and PM’s general information.</li><li>Manager can manage Developers and PM’s general information</li><li>Anyone can manage his/her own account general information</li></ul> |
+
+
+
+
 ***
 
 ### Designation Management
@@ -150,7 +159,7 @@ two methods
 | | Manager can approve/disapprove leave |
 | | Show  recent leaves |
 | | Show  leaves monthly, given date range |
-| | Leave types(medical(15), Casual(10), Annual(10) per year) and track limits per type |
+| | Leave types [medical(15), Casual(10), Annual(10) per year] and track limits per type |
 | | Leaves filter by month |
 | | Leave Calendar -  Display team availability in calendar view |
 
@@ -173,6 +182,14 @@ two methods
     Resource Availability Chart Who is available, busy(task count), or on leave.    PM, Manager
 
     Developer Workload Report =>  show selected Dev assigned tasks  and their deadlines, estimated times, their statues, already spend time spent.
+
+
+
+| Authorized | Description |
+| --- | --- |
+| | PM,Dev can apply leave |
+
+
 
 ***
 
