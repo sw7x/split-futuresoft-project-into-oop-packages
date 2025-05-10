@@ -148,6 +148,9 @@ two methods
 | PM, Manager, Owner | view employee(developer/pm) Project wise timing (spend time, schedule time) |
 | PM, Manager, Owner | view Designation wise spend time for a project (spend time, schedule time) |
 | |
+| | Developer monthly efficincy report - tasks delayed, tasks on time, tasks before time |
+| | Yearly calendar - show Planned and actual duration of the projects plotted throughout the year |
+| |
 | | **Dashboard page** |
 | | show  recent projects that engaged in with deadlines|
 | | show  recent projects that completed|
@@ -155,9 +158,6 @@ two methods
 | | show  recent tasks that complete |
 | | ~~show  recent tasks that have to complete~~ |
 | | ~~show  recent tasks that exceed the deadline~~ |
-| |
-| | Developer monthly efficincy report - tasks delayed, tasks on time, tasks before time |
-| | Yearly calendar - show Planned and actual duration of the projects plotted throughout the year |
 | |
 | | **Deadline Calendar View** |
 | | view of project deadlines in Today, week, Month |
