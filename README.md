@@ -198,7 +198,7 @@ two methods
 | Row 2 Cell 1 | Cell 2       | Cell 3       |
 
 
-| Command | Description |
+| Authorized | Description |
 | --- | --- |
 | PM,CEO | project wise => Color-coded Task Status Visualization by progress (e.g., Not Started, In Progress, Done, Blocked). |
 | PM,Dev | Show file differences that haven't been staged |
