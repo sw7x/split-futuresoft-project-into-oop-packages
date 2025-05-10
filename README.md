@@ -1,3 +1,13 @@
+## Table of Contents
+
+- [Description](#description)
+- [Requirments](#requirments)
+- [ER diagram](#er-diagram)
+- [Overall class diagram](#overall-class-diagram)
+- [Process 1](#process-1)
+- [Process 2](#process-2)
+
+
 ## description
 what we going to do and .....
 
@@ -191,12 +201,14 @@ two methods
 <img src="./diagrams/cls.png">
 
 
-## Process 1 - Overall class diagram diagram split it into modules
+## Process 1 
+### Overall class diagram diagram split it into modules
 - mark each package in overall class diagram
 - mention for each module use cases, entity attr, entity behaviours
 
 
-## Process 2 - Draw seperate class diagrams for each module
+## Process 2
+### Draw seperate class diagrams for each module
 - for each module tasks seperate class diagrams
     - module task list
     - module class diagram
