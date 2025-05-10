@@ -22,6 +22,13 @@
 ## Introduction
 what we going to do and .....
 
+there are 4 user roles
+- Company Owner - Owner
+- Manager
+- Project manager - PM
+- Developer - Dev
+
+
 two methods 
 1. draw overall class diagram for the poroject and divide it into modules
 2. draw seperate class diagrams for each module
