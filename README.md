@@ -90,7 +90,6 @@ two methods
 | | show percentages for each progress level |
 | | Project Completion % = (Number of Done tasks/Total number of tasks) * 100% |
 | | project wise => view tasks exceed the deadline/ ontime/before time/near to deadline |
-
 | PM, Owner, Manager, Assigned Dev | View Project progress in tasks |
 | PM, Owner, Manager | calculat and show Project Estimate time.(WHEN ALL TASK EST TIME SET) |
 | |
