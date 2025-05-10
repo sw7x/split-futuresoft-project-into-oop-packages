@@ -95,14 +95,6 @@ two methods
 ***
 
 ### Designation Management
-    owner--> manage designation hierarchy 
-    owner-->Manage designation ,sub designation information
-
-    admin level users can manage designations of users
-    •   Owner can manage designation of manager, PM’s and Developers.
-    •   Manager can manage designation of PM’s and Developers.
-
-
 | Authorized | Description |
 | --- | --- |
 | Owner | Manage designation hierarchy |
@@ -122,6 +114,13 @@ two methods
     //message                => Attach documents, screenshots, or file to each.
     //project thread message => Attach documents, screenshots, or file to each.
     //task thread message    => Attach documents, screenshots, or file to each.
+
+
+| Authorized | Description |
+| --- | --- |
+| | Users shall be able pass private messages to other users(Able to upload files with private messages) |
+| Project assigned dev, PM, Manager, Owner | thread to each project. can post and see messages in that thread |
+| Task assigned dev, Project assigned PM, Manager, Owner| thread to each Task.can post and see messages in that thread |
 
 ***
 
