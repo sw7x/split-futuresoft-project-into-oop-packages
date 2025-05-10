@@ -55,7 +55,7 @@ two methods
 
 ***
 
-### Task Management Module
+### Task management module
 | Authorized | Description |
 | --- | --- |
 | Assigned PM | Divide project into sub tasks that consist of maximum three levels. |
@@ -67,7 +67,7 @@ two methods
 
 ***
 
-### Task Progress Monitoring Module
+### Task progress monitoring module
 | Authorized | Description |
 | --- | --- |
 | | project wise => Color-coded Task Status Visualization by progress (e.g., Not Started, In Progress, Done, Blocked) |
@@ -85,7 +85,7 @@ two methods
 
 ***
 
-### Timesheet management
+### Timesheet management module
 | Authorized | Description |
 | --- | --- |
 | PM, Dev | manage time sheets for weekly basis |
@@ -118,7 +118,7 @@ two methods
 
 ***
 
-### Designation Management
+### Designation management module 
 | Authorized | Description |
 | --- | --- |
 | Owner | Manage designation hierarchy |
@@ -180,7 +180,7 @@ two methods
 
 ***
 
-### Resource Management Module 
+### Resource management module 
 | Authorized | Description |
 | --- | --- |
 | Owner, Manager| Assign PM for a project |
