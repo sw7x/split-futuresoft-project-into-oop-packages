@@ -156,12 +156,13 @@ two methods
 | | ~~show  recent tasks that have to complete~~ |
 | | ~~show  recent tasks that exceed the deadline~~ |
 | |
+| | Developer monthly efficincy report - tasks delayed, tasks on time, tasks before time |
+| | Yearly calendar - show Planned and actual duration of the projects plotted throughout the year |
+| |
 | | **Deadline Calendar View** |
 | | view of project deadlines in Today, week, Month |
 | | view of tasks deadlines in Today, week, Month |
-| |
-| | Developer monthly efficincy report - tasks delayed, tasks on time, tasks before time |
-| | Yearly calendar - show Planned and actual duration of the projects plotted throughout the year |
+
 ***
 
 ### Leave management module
