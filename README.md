@@ -22,7 +22,13 @@
 ## Introduction
 what we going to do and .....
 
-there are 4 user roles
+This project is about providing a project management software solution for a local company 
+called FutureSoft Pvt Ltd to automate their workflow
+
+
+
+
+There are four user roles in the company
 - Company Owner - Owner
 - Manager
 - Project manager - PM
@@ -34,7 +40,14 @@ two methods
 2. draw seperate class diagrams for each module
 
 
-## Requirments
+## Software Requirement Specification (SRS)
+> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
+>
+>> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+
+
+
+## Packages
 
 ### Project management module 
 | Authorized | Description |
@@ -226,3 +239,21 @@ Draw seperate class diagrams for each module
     - module task list
     - module class diagram
 - mention for each module use cases, entity attr, entity behaviours
+
+
+
+
+
+
+---- Introduction  
+
+----req title 
+
+--- check modules taks, use roles
+
+------er detailed page
+
+-----class diagram detaild - attr, methods 
+
+----- describe Process 1
+----- describe Process 2
