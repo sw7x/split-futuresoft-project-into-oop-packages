@@ -33,4 +33,4 @@ called FutureSoft Pvt Ltd to automate their workflow
 
 **[Home page](./docs/srs.md)**
 
-**[View SRS](./)**
+**[View SRS](../)**
