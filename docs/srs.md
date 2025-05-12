@@ -36,6 +36,6 @@ called FutureSoft Pvt Ltd to automate their workflow
 **[View SRS](../)**
 
 
-[🏠 Go to Home Page](../..)
+[🏠 Go to Home Page](../../)
 
 [🏠 Go to Home Page](.)
