@@ -2,16 +2,16 @@
 
 - [Introduction](#introduction)
 - [Requirments](#requirments)
-	- [Project management module](#project-management-module)
-	- [Task management Module](#task-management-Module)
-	- [Task progress Monitoring Module](#task-progress-monitoring-module)
-	- [Timesheet management module](#timesheet-management-module)
-	- [User management module](#user-management-module)
-	- [Designation management module](#designation-management-module)
-	- [Communication module](#communication-module)
-	- [Reporting module](#reporting-module)
-	- [Leave management module](#leave-management-module)
-	- [Resource management Module](#resource-management-module)
+	- [Project management package](#project-management-package)
+	- [Task management package](#task-management-package)
+	- [Task progress Monitoring package](#task-progress-monitoring-package)
+	- [Timesheet management package](#timesheet-management-package)
+	- [User management package](#user-management-package)
+	- [Designation management package](#designation-management-package)
+	- [Communication package](#communication-package)
+	- [Reporting package](#reporting-package)
+	- [Leave management package](#leave-management-package)
+	- [Resource management package](#resource-management-package)
 
 - [ER diagram](#er-diagram)
 - [Overall class diagram](#overall-class-diagram)
@@ -36,15 +36,15 @@ There are four user roles in the company
 
 
 two methods 
-1. draw overall class diagram for the poroject and divide it into modules
-2. draw seperate class diagrams for each module
+1. draw overall class diagram for the poroject and divide it into packages
+2. draw seperate class diagrams for each package
 
 
 ## Software Requirement Specification (SRS)
 > Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
 >
 >> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
+**[View SRS](./docs/srs.md)**
 
 
 ## Packages
@@ -249,7 +249,7 @@ Draw seperate class diagrams for each package
 
 ----req title 
 
---- check modules taks, use roles
+--- check packages taks, use roles
 
 ------er detailed page
 
