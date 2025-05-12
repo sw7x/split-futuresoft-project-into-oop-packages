@@ -1,7 +1,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Requirments](#requirments)
+- [SRS](#srs)
+- [Packages](#packages)
 	- [Project management package](#project-management-package)
 	- [Task management package](#task-management-package)
 	- [Task progress Monitoring package](#task-progress-monitoring-package)
@@ -40,7 +41,8 @@ two methods
 2. draw seperate class diagrams for each package
 
 
-## Software Requirement Specification (SRS)
+## SRS
+Software Requirement Specification
 > Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
 >
 >> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
