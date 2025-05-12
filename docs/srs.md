@@ -31,3 +31,6 @@ called FutureSoft Pvt Ltd to automate their workflow
 >
 >> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
+**[Home page](./docs/srs.md)**
+
+**[View SRS](./)**
