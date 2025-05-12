@@ -49,7 +49,7 @@ two methods
 
 ## Packages
 
-### Project management module 
+### Project management package 
 | Authorized | Description |
 | --- | --- |
 | Owner | Create project profile with Client information |
@@ -75,7 +75,7 @@ two methods
 
 ***
 
-### Task management module
+### Task management package
 | Authorized | Description |
 | --- | --- |
 | Assigned PM | Divide project into sub tasks that consist of maximum three levels. |
@@ -87,7 +87,7 @@ two methods
 
 ***
 
-### Task progress monitoring module
+### Task progress monitoring package
 | Authorized | Description |
 | --- | --- |
 | | project wise => Color-coded Task Status Visualization by progress (e.g., Not Started, In Progress, Done, Blocked) |
@@ -105,7 +105,7 @@ two methods
 
 ***
 
-### Timesheet management module
+### Timesheet management package
 | Authorized | Description |
 | --- | --- |
 | PM, Dev | manage time sheets for weekly basis |
@@ -115,7 +115,7 @@ two methods
 
 ***
 
-### User management module	 
+### User management package	 
 | Authorized | Description |
 | --- | --- |
 | | managing General information of the users |
@@ -138,7 +138,7 @@ two methods
 
 ***
 
-### Designation management module 
+### Designation management package 
 | Authorized | Description |
 | --- | --- |
 | Owner | Manage designation hierarchy |
@@ -150,7 +150,7 @@ two methods
 
 ***
 
-### Communication module
+### Communication package
 | Authorized | Description |
 | --- | --- |
 | | Users shall be able pass private messages to other users(Able to upload files with private messages) |
@@ -163,7 +163,7 @@ two methods
 
 ***
 
-### Reporting module
+### Reporting package
 | Authorized | Description |
 | --- | --- |
 | PM, Manager, Owner | view employee(developer/pm) Project wise timing (spend time, schedule time) |
@@ -186,7 +186,7 @@ two methods
 
 ***
 
-### Leave management module
+### Leave management package
 | Authorized | Description |
 | --- | --- |
 | | PM,Dev can apply leave |
@@ -200,7 +200,7 @@ two methods
 
 ***
 
-### Resource management module 
+### Resource management package 
 | Authorized | Description |
 | --- | --- |
 | Owner, Manager| Assign PM for a project |
@@ -228,17 +228,17 @@ two methods
 
 
 ## Process 1 
-Overall class diagram diagram split it into modules
+Overall class diagram diagram split it into packages
 - mark each package in overall class diagram
-- mention for each module use cases, entity attr, entity behaviours
+- mention for each package use cases, entity attr, entity behaviours
 
 
 ## Process 2
-Draw seperate class diagrams for each module
-- for each module tasks seperate class diagrams
-    - module task list
-    - module class diagram
-- mention for each module use cases, entity attr, entity behaviours
+Draw seperate class diagrams for each package
+- for each package tasks seperate class diagrams
+    - package task list
+    - package class diagram
+- mention for each package use cases, entity attr, entity behaviours
 
 
 
