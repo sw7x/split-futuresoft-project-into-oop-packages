@@ -17,8 +17,8 @@
 	- [Reporting package](#reporting-package)
 	- [Leave management package](#leave-management-package)
 	- [Resource management package](#resource-management-package)
-- [Process 1](#process-1)
-- [Process 2](#process-2)
+- [Single Class Diagram Approach](#single-class-diagram-approach)
+- [Package-Wise Class Diagrams Approach](#package-wise-class-diagrams-approach)
 
 
 ## Introduction
