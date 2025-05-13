@@ -69,11 +69,9 @@ In this guide, we will explore both approaches.
 ***
 
 ## Packages
-To initiate the development of the project management system for FutureSoft Pvt Ltd, we first identified and gathered key 
-stakeholders to understand their specific needs and expectations. Based on these inputs and the documented requirements, 
-we analyzed what the system should deliver and defined the core tasks and responsibilities it must support. Subsequently, 
-we decomposed the overall system functionality into well-structured modules (packages) to ensure clarity, modularity, and 
-maintainability.  
+To develop the project management system for FutureSoft Pvt Ltd, we first gathered key stakeholders to understand their needs. 
+Based on the requirements, we defined core system tasks and organized the functionality into structured modules for clarity and 
+maintainability. 
 
 ### Project management package 
 | Authorized | Description |
