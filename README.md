@@ -1,6 +1,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Project Overview](#project-overview)
 - [SRS](#srs)
 - [Packages](#packages)
 	- [Project management package](#project-management-package)
@@ -28,7 +29,6 @@ We will design the system using object-oriented analysis and design (OOAD) princ
 logical packages for better modularity and maintainability.
 
 The system will support four user roles within the company:
-
 - Company Owner (Owner)
 - Manager
 - Project Manager (PM)
@@ -39,6 +39,22 @@ To organize the system into packages, we can follow two approaches:
 2.Create separate class diagrams for each individual package.
 
 In this document, we will discuss both of these methods.
+
+## Project Overview
+
+### Project Objective / Purpose
+
+    What problem is being solved?
+
+    Why is this software needed?
+
+### Target Users
+The system will support four user roles within the company:
+- Company Owner (Owner)
+- Manager
+- Project Manager (PM)
+- Developer (Dev)
+
 
 
 
