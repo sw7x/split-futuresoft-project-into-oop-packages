@@ -68,6 +68,16 @@ In this guide, we will explore both approaches.
 
 ***
 
+## ER diagram
+<img src="./diagrams/erd.png">
+
+***
+
+## Overall class diagram
+<img src="./diagrams/cls.png">
+
+***
+
 ## Packages
 To develop the project management system for FutureSoft Pvt Ltd, we first gathered key stakeholders to understand their needs. 
 Based on the requirements, we defined core system tasks and organized the functionality into structured modules for clarity and 
@@ -242,15 +252,6 @@ maintainability.
 | |
 | PM, Manager | Resource Availability Chart Who is available, busy(task count), or on leave |
 | PM, Manager | Developer Workload Report =>  show selected Dev assigned tasks  and their deadlines, estimated times, their statues, already spend time spent |
-
-***
-## ER diagram
-<img src="./diagrams/erd.png">
-
-***
-
-## Overall class diagram
-<img src="./diagrams/cls.png">
 
 ***
 
