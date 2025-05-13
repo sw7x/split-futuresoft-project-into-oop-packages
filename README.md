@@ -3,7 +3,9 @@
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Objective](#objective)
-- [SRS](#srs)
+- [Requirements](#requirements)
+- [ER diagram](#er-diagram)
+- [Overall class diagram](#overall-class-diagram)  
 - [Packages](#packages)
 	- [Project management package](#project-management-package)
 	- [Task management package](#task-management-package)
@@ -15,9 +17,6 @@
 	- [Reporting package](#reporting-package)
 	- [Leave management package](#leave-management-package)
 	- [Resource management package](#resource-management-package)
-
-- [ER diagram](#er-diagram)
-- [Overall class diagram](#overall-class-diagram)
 - [Process 1](#process-1)
 - [Process 2](#process-2)
 
