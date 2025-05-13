@@ -52,7 +52,7 @@ Objective of this guide is Design the system using Object-Oriented Analysis and 
 for that we consider two possible approaches:
 
 1. Single Class Diagram Approach – Create one comprehensive class diagram for the entire system and divide it into packages.
-2. Package-Wise Class Diagrams – Create separate class diagrams for each package
+2. Package-Wise Class Diagrams Approach – Create separate class diagrams for each package
 
 In this guide, we will explore both approaches.
 
@@ -254,14 +254,14 @@ maintainability.
 
 ***
 
-## Process 1 
+## Single Class Diagram Approach 
 Overall class diagram diagram split it into packages
 - mark each package in overall class diagram
 - mention for each package use cases, entity attr, entity behaviours
 
 ***
 
-## Process 2
+## Package-Wise Class Diagrams Approach
 Draw seperate class diagrams for each package
 - for each package tasks seperate class diagrams
     - package task list
