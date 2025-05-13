@@ -63,7 +63,7 @@ In this guide, we will explore both approaches.
 >
 >> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.  
 
-**[View SRS](./docs/srs.md)**
+**[View requirements page](./docs/srs.md)**
 
 ***
 
