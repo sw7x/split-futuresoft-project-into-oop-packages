@@ -59,8 +59,7 @@ In this guide, we will explore both approaches.
 
 ***
 
-## SRS
-Software Requirement Specification
+## Requirements
 > Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
 >
 >> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.  
@@ -130,9 +129,9 @@ Software Requirement Specification
 ### Timesheet management package
 | Authorized | Description |
 | --- | --- |
-| PM, Dev | manage time sheets for weekly basis |
+| PM, Dev | submit time sheets by monthly basis |
 | Manager, Owner | approve all users timesheets |
-| Manager, Owner | view all users timesheets(monthly,weekly) |
+| Manager, Owner | view all users previous timesheets(filter by month) |
 | | can Mark leave days in timesheet |
 
 ***
@@ -217,6 +216,7 @@ Software Requirement Specification
 | | Show  recent leaves |
 | | Show  leaves monthly, given date range |
 | | Leave types [medical(15), Casual(10), Annual(10) per year] and track limits per type |
+| | Leaves can filter in data ranges for specific DEV/PM |
 | | Leaves filter by month |
 | | Leave Calendar -  Display team availability in calendar view |
 
