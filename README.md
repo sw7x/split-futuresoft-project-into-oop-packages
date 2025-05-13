@@ -21,24 +21,25 @@
 
 
 ## Introduction
-what we going to do and .....
+This project involves developing a project management software solution for a local company called 
+FutureSoft Pvt Ltd to help automate their workflow.
 
-This project is about providing a project management software solution for a local company 
-called FutureSoft Pvt Ltd to automate their workflow
+We will design the system using object-oriented analysis and design (OOAD) principles and structure it into 
+logical packages for better modularity and maintainability.
 
+The system will support four user roles within the company:
 
-
-
-There are four user roles in the company
-- Company Owner - Owner
+- Company Owner (Owner)
 - Manager
-- Project manager - PM
-- Developer - Dev
+- Project Manager (PM)
+- Developer (Dev)
 
+To organize the system into packages, we can follow two approaches:
+1.Create an overall class diagram for the entire project and divide it into packages.
+2.Create separate class diagrams for each individual package.
 
-two methods 
-1. draw overall class diagram for the poroject and divide it into packages
-2. draw seperate class diagrams for each package
+In this document, we will discuss both of these methods.
+
 
 
 ## SRS
