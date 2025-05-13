@@ -2,6 +2,7 @@
 
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
+- [Objective](#objective)
 - [SRS](#srs)
 - [Packages](#packages)
 	- [Project management package](#project-management-package)
@@ -22,27 +23,21 @@
 
 
 ## Introduction
-This project involves developing a project management software solution for a local company called 
-FutureSoft Pvt Ltd to help automate their workflow.
-
-We will design the system using object-oriented analysis and design (OOAD) principles and structure it into 
-logical packages for better modularity and maintainability.
-
-To organize the system into packages, we can follow two approaches:  
-1. Create an overall class diagram for the entire project and divide it into packages.
-2. Create separate class diagrams for each individual package.
-
-In this document, we will discuss both of these methods.
+This guide outlines the design and development of a custom project management software system for FutureSoft Pvt 
+Ltd.system will be structured into logically organized packages using Object-Oriented Analysis and Design (OOAD) 
+principles
 
 ***
 
 ## Project Overview
+This Project Management System is a customized software solution designed to help FutureSoft Pvt Ltd efficiently manage 
+its internal projects, teams, and workflows
 
-### Project Objective / Purpose
-
-    What problem is being solved?
-
-    Why is this software needed?
+### Key features of the system
+- Project creation and management
+- Task assignment and tracking
+- Role-based access control
+- Progress monitoring and reporting
 
 ### Target Users
 The system will support four user roles within the company:
@@ -50,6 +45,17 @@ The system will support four user roles within the company:
 - Manager
 - Project Manager (PM)
 - Developer (Dev)
+
+***
+
+## Objective
+Objective of this guide is Design the system using Object-Oriented Analysis and Design (OOAD) principles, and organize it into packages.
+for that we consider two possible approaches:
+
+1. Single Class Diagram Approach – Create one comprehensive class diagram for the entire system and divide it into packages.
+2. Package-Wise Class Diagrams – Create separate class diagrams for each package
+
+In this guide, we will explore both approaches.
 
 ***
 
