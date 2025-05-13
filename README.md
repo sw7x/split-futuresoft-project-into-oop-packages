@@ -28,17 +28,13 @@ FutureSoft Pvt Ltd to help automate their workflow.
 We will design the system using object-oriented analysis and design (OOAD) principles and structure it into 
 logical packages for better modularity and maintainability.
 
-The system will support four user roles within the company:
-- Company Owner (Owner)
-- Manager
-- Project Manager (PM)
-- Developer (Dev)
-
-To organize the system into packages, we can follow two approaches:
-1.Create an overall class diagram for the entire project and divide it into packages.
-2.Create separate class diagrams for each individual package.
+To organize the system into packages, we can follow two approaches:  
+1. Create an overall class diagram for the entire project and divide it into packages.
+2. Create separate class diagrams for each individual package.
 
 In this document, we will discuss both of these methods.
+
+***
 
 ## Project Overview
 
@@ -55,8 +51,7 @@ The system will support four user roles within the company:
 - Project Manager (PM)
 - Developer (Dev)
 
-
-
+***
 
 ## SRS
 Software Requirement Specification
@@ -66,6 +61,7 @@ Software Requirement Specification
 
 **[View SRS](./docs/srs.md)**
 
+***
 
 ## Packages
 
@@ -239,19 +235,22 @@ Software Requirement Specification
 | PM, Manager | Developer Workload Report =>  show selected Dev assigned tasks  and their deadlines, estimated times, their statues, already spend time spent |
 
 ***
-
 ## ER diagram
 <img src="./diagrams/erd.png">
+
+***
 
 ## Overall class diagram
 <img src="./diagrams/cls.png">
 
+***
 
 ## Process 1 
 Overall class diagram diagram split it into packages
 - mark each package in overall class diagram
 - mention for each package use cases, entity attr, entity behaviours
 
+***
 
 ## Process 2
 Draw seperate class diagrams for each package
@@ -260,10 +259,7 @@ Draw seperate class diagrams for each package
     - package class diagram
 - mention for each package use cases, entity attr, entity behaviours
 
-
-
-
-
+***
 
 ---- Introduction  
 
