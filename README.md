@@ -72,9 +72,7 @@ ER diagram consist most im,portnat attributes only
 
 <img src="./diagrams/erd.png">  
 "All attributes are not shown in the ER diagram to avoid clutter and maintain clarity. Only key 
-attribute were include for better readability.  
-
-**[View all attributes of the entities](./docs/er.md)**
+attribute were include for better readability. **[Goto class diagram page for view all attributes of the entities](./docs/er.md)**
 
 ***
 
@@ -82,9 +80,7 @@ attribute were include for better readability.
 
 <img src="./diagrams/cls.png">  
 Attributes and behaviors are not included in the class diagram, as doing so would make the diagram 
-overly complex and difficult to read. 
-
- **[View all attributes and behaviours of the entity classes](./docs/cls.md)**
+overly complex and difficult to read. **[Goto ER diagram page for view all attributes and behaviours of the classes](./docs/cls.md)**
 
 ***
 
