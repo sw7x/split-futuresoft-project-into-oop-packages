@@ -74,7 +74,8 @@ ER diagram consist most im,portnat attributes only
 "All attributes are not shown in the ER diagram to avoid clutter and maintain clarity. Only key 
 attribute were include for better readability.
 
-**[Goto class diagram page for view all attributes of the entities](./docs/er.md)**
+
+**[Goto ER diagram page to view all attributes of the entities](./docs/cls.md)**
 
 ***
 
@@ -84,7 +85,7 @@ attribute were include for better readability.
 Attributes and behaviors are not included in the class diagram, as doing so would make the diagram 
 overly complex and difficult to read.
 
-**[Goto ER diagram page for view all attributes and behaviours of the classes](./docs/cls.md)**
+**[Goto class diagram page to view all attributes and behaviours of the classes](./docs/er.md)**
 
 ***
 
