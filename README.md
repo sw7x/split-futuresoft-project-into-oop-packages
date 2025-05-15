@@ -136,7 +136,7 @@ maintainability.
 | Authorized | Description |
 | --- | --- |
 | | project wise => Color-coded Task Status Visualization by progress (e.g., Not Started, In Progress, Done, Blocked) |
-| | show percentages for each progress level |
+| | show percentages for each above mentioned progress level |
 | | Project Completion % = (Number of Done tasks/Total number of tasks) * 100% |
 | | project wise => view tasks exceed the deadline/ ontime/before time/near to deadline |
 | PM, Owner, Manager, Assigned Dev | View Project progress in tasks |
