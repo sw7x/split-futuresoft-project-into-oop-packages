@@ -112,7 +112,7 @@ maintainability.
 | |
 | | **Project costing** |
 | Manager, Owner, Assigned PM | Add costing factors and cost |
-| Manager, Owner, Assigned PM | Calculate Employee cost (Employee cost  = employee cost rate * time) |
+| Manager, Owner, Assigned PM | Calculate Employee cost (Employee cost  = employee hourly rate * time) |
 | Manager, Owner, Assigned PM | Calculate total Cost |
 | Manager, Owner, Assigned PM | Add incomes to the project cost profile |
 | Manager, Owner, Assigned PM | deduct income amount from cost.(Calculating profit) |
@@ -128,7 +128,7 @@ maintainability.
 | Dev | Submit task with Spend time and additional comment.(done/cannot done) |
 | | view task info(including delivery status) |
 | | Add priority levels (High, Medium, Low) and allow sorting/filtering |
-| | Attach documents, screenshots, or specifications to each task |
+| | ~~Attach documents, screenshots, or specifications to each task~~  |
 
 ***
 
