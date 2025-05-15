@@ -68,12 +68,23 @@ In this guide, we will explore both approaches.
 ***
 
 ## ER diagram
-<img src="./diagrams/erd.png">
+ER diagram consist most im,portnat attributes only  
+
+<img src="./diagrams/erd.png">  
+"All attributes are not shown in the ER diagram to avoid clutter and maintain clarity. Only key 
+attribute were include for better readability.  
+
+**[View all attributes of the entities](./docs/er.md)**
 
 ***
 
-## Overall class diagram
-<img src="./diagrams/cls.png">
+## Overall class diagram  
+
+<img src="./diagrams/cls.png">  
+Attributes and behaviors are not included in the class diagram, as doing so would make the diagram 
+overly complex and difficult to read. 
+
+ **[View all attributes and behaviours of the entity classes](./docs/cls.md)**
 
 ***
 
