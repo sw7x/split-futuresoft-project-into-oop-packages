@@ -83,8 +83,9 @@ attribute were include for better readability.
 
 <img src="./diagrams/cls.png">  
 When draw class diagram 
+
 - Attributes and behaviors are omitted to keep the class diagram simple and readable.  
-- To optimize performance and memory usage, minimize bidirectional associations 
+- Minimized bidirectional associations to optimize performance and memory usage
 - Some associations were skipped to maintain clarity in the diagram, as they were not considered essential. Those are 
     - Timesheet ----approvedBy--> managementEmployee
     - Leave ----approvedBy--> managementEmployee
