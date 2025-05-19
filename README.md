@@ -88,9 +88,11 @@ overly complex and difficult to read.
 **[Goto class diagram page to view all attributes and behaviours of the classes](./docs/cls.md)**
 
 
-[TODO]**to optimize performance/memory Minimized bidirectional association.**  
-[TODO]**some associations were skipped  - not so important/ clarity of the diagram**  
-[TODO]**those are**  
+[TODO]**To optimize performance and memory usage, minimize bidirectional associations**  
+[TODO]**Some associations were skipped to maintain clarity in the diagram, as they were not considered essential.**  
+[TODO]**Those are**  
+1. Timesheet ----approvedBy--> managementEmployee
+2. Leave ----approvedBy--> managementEmployee
 
 ***
 
