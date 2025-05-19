@@ -87,6 +87,12 @@ overly complex and difficult to read.
 
 **[Goto class diagram page to view all attributes and behaviours of the classes](./docs/cls.md)**
 
+
+~~ to optimize performance/memory Minimized bidirectional association.  
+~~ some associations were skipped  - not so important/ clarity of the diagram 
+~~ those are 
+
+
 ***
 
 ## Packages
@@ -262,7 +268,7 @@ maintainability.
 | | Before assigning a task → check if the Dev is already assigned to other tasks in the same time frame |
 | |
 | PM, Manager | Resource Availability Chart Who is available, busy(task count), or on leave |
-| PM, Manager | Developer Workload Report =>  show selected Dev assigned tasks  and their deadlines, estimated times, their statues, already spend time spent |
+| PM, Manager | Developer Workload Report =>  show selected Dev currently assigned tasks  and their deadlines, estimated times, their statues, already spend time spent |
 
 ***
 
