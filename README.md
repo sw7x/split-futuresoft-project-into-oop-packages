@@ -71,7 +71,7 @@ In this guide, we will explore both approaches.
 ER diagram consist most im,portnat attributes only  
 
 <img src="./diagrams/erd.png">  
-"All attributes are not shown in the ER diagram to avoid clutter and maintain clarity. Only key 
+All attributes are not shown in the ER diagram to avoid clutter and maintain clarity. Only key 
 attribute were include for better readability.
 
 
