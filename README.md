@@ -216,7 +216,7 @@ maintainability.
 ### Reporting package
 | Authorized | Description |
 | --- | --- |
-| PM, Manager, Owner | view developer assignment time periods with Project time frame |
+| PM, Manager, Owner | view developer project assignment time periods with project time frame |
 | PM, Manager, Owner | view employee(developer/pm) Project wise timing (spend time, schedule time) |
 | PM, Manager, Owner | view Designation wise spend time for a project (spend time, schedule time) |
 | |
