@@ -88,9 +88,9 @@ overly complex and difficult to read.
 **[Goto class diagram page to view all attributes and behaviours of the classes](./docs/cls.md)**
 
 
-~~ to optimize performance/memory Minimized bidirectional association.  
-~~ some associations were skipped  - not so important/ clarity of the diagram 
-~~ those are 
+~~to optimize performance/memory Minimized bidirectional association.  
+~~some associations were skipped  - not so important/ clarity of the diagram  
+~~those are  
 
 
 ***
