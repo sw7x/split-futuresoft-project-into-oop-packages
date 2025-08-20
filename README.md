@@ -267,7 +267,7 @@ maintainability.
 | | Before assigning a task → check if the DEV has a leave request overlapping with delivery date |
 | | Before assigning a task → check if the Dev is already assigned to other tasks in the same time frame |
 | |
-| PM, Manager | Resource Availability Chart Who is available, busy(task count), or on leave |
+| PM, Manager | ~~Resource Availability Chart Who is available, busy(task count), or on leave~~ |
 | PM, Manager | Developer Workload Report =>  show selected Dev currently assigned tasks  and their deadlines, estimated times, their statues, already spend time spent |
 
 ***
