@@ -128,7 +128,7 @@ maintainability.
 ### Task management package
 | Authorized | Description |
 | --- | --- |
-| Assigned PM | Divide project into sub tasks that consist of maximum three levels. |
+| Assigned PM | Divide project into sub tasks that consist of maximum two levels. |
 | PM | set Estimate time, Delivery date to the Tasks |
 | Dev | Submit task with Spend time and additional comment.(done/cannot done) |
 | | view task info(including delivery status) |
