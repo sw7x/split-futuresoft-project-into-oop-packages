@@ -137,19 +137,19 @@ maintainability.
 
 ***
 
-### Task progress monitoring package
+### Project progress tracking package
 | Authorized | Description |
 | --- | --- |
-| | project wise => Color-coded Task Status Visualization by progress (e.g., Not Started, In Progress, Done, Blocked) |
-| | show percentages for each above mentioned progress level |
-| | Project Completion % = (Number of Done tasks/Total number of tasks) * 100% |
-| | project wise => view tasks exceed the deadline/ ontime/before time/near to deadline |
-| PM, Owner, Manager, Assigned Dev | View Project progress in tasks |
-| PM, Owner, Manager | calculat and show Project Estimate time.(WHEN ALL TASK EST TIME SET) |
+| | The project is split into different phases, and the progress is measured by the percentage of each phase that has been completed |
+| | show percentages for each phase of the project |
+| | Project phase completion % = (Number of Done tasks/Total number of tasks) * 100% |
+| | project wise => view tasks progress of it's (progress levels - pending, submited, delayed-pending, delayed-submited) |
+| PM, Owner, Manager, Assigned Dev | View Project progress by it's phases |
+| PM, Owner, Manager | ~~calculat and show Project Estimate time.(WHEN ALL TASK EST TIME SET)~~ |
 | |
 | | ~~show  recent tasks that complete~~ |
-| | show  recent tasks that have to complete(near deadline) |
-| | show  recent tasks that exceed the deadline |
+| | show  recent tasks that have to complete(near deadline) -> in Dashboard |
+| | show  recent tasks that exceed the deadline -> in Dashboard |
 
 ~~task => Attach documents, screenshots, or file to each task~~  
 
