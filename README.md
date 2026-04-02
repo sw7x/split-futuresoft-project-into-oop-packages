@@ -143,7 +143,7 @@ maintainability.
 | | The project is split into different phases, and the progress is measured by the percentage of each phase that has been completed |
 | | show percentages for each phase of the project |
 | | Project phase completion % = (Number of Done tasks/Total number of tasks) * 100% |
-| | project wise => view tasks progress of it's (progress levels - pending, submited, delayed-pending, delayed-submited) |
+| | Project-wise, view the progress of tasks according to their progress levels (progress levels - pending, submited, delayed-pending, delayed-submited) |
 | PM, Owner, Manager, Assigned Dev | View Project progress by it's phases |
 | PM, Owner, Manager | ~~calculat and show Project Estimate time.(WHEN ALL TASK EST TIME SET)~~ |
 | |
