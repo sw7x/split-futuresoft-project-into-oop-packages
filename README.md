@@ -173,7 +173,7 @@ maintainability.
 | Manager | manage Developers and PM’s Personal Information and Demographic Information |
 | | Anyone can manage his/her own account Personal Information and Demographic Information |
 | |
-| | Manage Emp. Salary information, Employee hourly rate(monthly salary/22days*8 hours), EPF-ETF details Education Qualifications and skills |
+| | Manage Emp. Salary information, Employee hourly rate(monthly salary/22 days*8 hours), EPF-ETF details Education Qualifications and skills |
 | Owner | manage above details of Manager, Developers and  PM’s |
 | Manager | manage above details of Developers and PM |
 | |
@@ -273,17 +273,17 @@ maintainability.
 ***
 
 ## Approaches 
-to divide project into module we can use below mentioned two approaches 
+to divide project into modules we can use these two approaches 
 
 
-### Single Class Diagram Approach 
+### 1.Single Class Diagram Approach 
 Overall class diagram diagram split it into packages
 - mark each package in overall class diagram
 - mention for each package use cases, entity attr, entity behaviours
 
 ***
 
-### Package-Wise Class Diagrams Approach
+### 2.Package-Wise Class Diagrams Approach
 Draw seperate class diagrams for each package
 - for each package tasks seperate class diagrams
     - package task list
