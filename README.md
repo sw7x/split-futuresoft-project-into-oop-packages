@@ -294,5 +294,5 @@ Draw seperate class diagrams for each package
 
 
 
-------er detailed page
+------er detailed page  
 -----class diagram detaild - attr, methods 
