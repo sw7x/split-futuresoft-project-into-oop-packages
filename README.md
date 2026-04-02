@@ -17,8 +17,7 @@
 	- [Reporting package](#reporting-package)
 	- [Leave management package](#leave-management-package)
 	- [Resource management package](#resource-management-package)
-- [Single Class Diagram Approach](#single-class-diagram-approach)
-- [Package-Wise Class Diagrams Approach](#package-wise-class-diagrams-approach)
+- [Approaches](#approach)
 
 
 ## Introduction
@@ -286,8 +285,9 @@ Draw seperate class diagrams for each package
 - for each package tasks seperate class diagrams
     - package task list
     - package class diagram
-- mention for each package use cases, entity attr, entity behaviours
+- mention for each package use cases, entity attr, entity behaviours  
 
+in here we use Single Class Diagram Approach approach
 ***
 
 
