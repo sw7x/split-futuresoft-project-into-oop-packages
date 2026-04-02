@@ -9,7 +9,7 @@
 - [Packages](#packages)
 	- [Project management package](#project-management-package)
 	- [Task management package](#task-management-package)
-	- [Task progress Monitoring package](#task-progress-monitoring-package)
+	- [Project progress tracking package](#project-progress-tracking-package)
 	- [Timesheet management package](#timesheet-management-package)
 	- [User management package](#user-management-package)
 	- [Designation management package](#designation-management-package)
