@@ -17,7 +17,7 @@
 	- [Reporting package](#reporting-package)
 	- [Leave management package](#leave-management-package)
 	- [Resource management package](#resource-management-package)
-- [Approaches](#approach)
+- [Approaches](#approaches)
 
 
 ## Introduction
