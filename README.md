@@ -276,12 +276,12 @@ maintainability.
 to divide project into modules we can use these two approaches 
 
 
-#### 1.Single Class Diagram Approach 
+#### 1. Single Class Diagram Approach 
 Overall class diagram diagram split it into packages
 - mark each package in overall class diagram
 - mention for each package use cases, entity attr, entity behaviours  
 
-#### 2.Package-Wise Class Diagrams Approach
+#### 2. Package-Wise Class Diagrams Approach
 Draw seperate class diagrams for each package
 - for each package tasks seperate class diagrams
     - package task list
