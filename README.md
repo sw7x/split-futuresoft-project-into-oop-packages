@@ -102,7 +102,7 @@ maintainability.
 ### Project management package 
 | Authorized | Description |
 | --- | --- |
-| Owner | Create project profile with Client information |
+| Owner | Create project profile with Client information and Project Plan |
 | Owner | Add project Details to project profile |
 | Owner | Add Scheduled Dates to project profile such as Delivery Date, deadline |
 | Owner | Categorize Projects as local or foreign |
@@ -168,20 +168,20 @@ maintainability.
 ### User management package	 
 | Authorized | Description |
 | --- | --- |
-| | managing General information of the users |
-| Owner | manage manager, Developers and PM’s general information |
-| Manager | manage Developers and PM’s general information |
-| | Anyone can manage his/her own account general information |
+| | managing user account |
+| Owner | manage manager, Developers and PM’s Personal Information and Demographic Information |
+| Manager | manage Developers and PM’s Personal Information and Demographic Information |
+| | Anyone can manage his/her own account Personal Information and Demographic Information |
 | |
-| | Manage Emp. Salary information, Employee hourly rate(monthly salary/22days*8 hours), EPF-ETF details and Education Qualifications |
+| | Manage Emp. Salary information, Employee hourly rate(monthly salary/22days*8 hours), EPF-ETF details Education Qualifications and skills |
 | Owner | manage above details of Manager, Developers and  PM’s |
 | Manager | manage above details of Developers and PM |
 | |
-| | Admin level users can manage other user accounts (CRUD,working/resign manage) |
+| | Admin level users can manage other user accounts (CRUD,working/resign, account enable/disable) |
 | Owner | create, delete and change working status of manager, Developers and PM’s |
 | Manager | create, delete and change working status of Developers and PM’s |
 | |
-| Dev, PM | Manage their skill list |
+| Dev, PM | Manage their Profile Picture,  Personal Information(except username)|
 
 ~~system shall give Users authenticate~~  
 ~~system shall be able given appropriate privileges according to their user role~~  
@@ -204,8 +204,8 @@ maintainability.
 | Authorized | Description |
 | --- | --- |
 | | Users shall be able pass private messages to other users(Able to upload files with private messages) |
-| Project assigned dev, PM, Manager, Owner | thread to each project. can post and see messages in that thread |
-| Task assigned dev, Project assigned PM, Manager, Owner| thread to each Task.can post and see messages in that thread |
+| Project assigned dev, PM, Manager, Owner | thread to each project. can post, reply and see messages in that thread |
+| Task assigned dev, Project assigned PM, Manager, Owner| thread to each Task. can post, reply and see messages in that thread |
 
 ~~message                => Attach documents, screenshots, or file to each~~  
 ~~project thread message => Attach documents, screenshots, or file to each~~  
