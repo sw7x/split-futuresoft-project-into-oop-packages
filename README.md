@@ -287,7 +287,7 @@ Draw seperate class diagrams for each package
     - package class diagram
 - mention for each package use cases, entity attr, entity behaviours  
 
-in here we use Single Class Diagram Approach approach
+#in here we use Single Class Diagram Approach approach
 ***
 
 
