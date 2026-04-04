@@ -16,7 +16,7 @@
 	- [Communication package](#communication-package)
 	- [Reporting package](#reporting-package)
 	- [Leave management package](#leave-management-package)
-	- [Resource management package](#resource-management-package)
+	- [Resource allocation package](# resource-allocation-package)
 - [Approaches](#approaches)
 
 
@@ -251,7 +251,7 @@ maintainability.
 
 ***
 
-### Resource management package 
+### Resource allocation package 
 | Authorized | Description |
 | --- | --- |
 | Owner, Manager| Assign PM for a project |
