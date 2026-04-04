@@ -16,7 +16,7 @@
 	- [Communication package](#communication-package)
 	- [Reporting package](#reporting-package)
 	- [Leave management package](#leave-management-package)
-	- [Resource allocation package](# resource-allocation-package)
+	- [Resource allocation package](#resource-allocation-package)
 - [Approaches](#approaches)
 
 
