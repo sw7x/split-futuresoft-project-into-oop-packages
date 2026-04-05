@@ -17,7 +17,6 @@
 	- [Reporting package](#reporting-package)
 	- [Leave management package](#leave-management-package)
 	- [Resource allocation package](#resource-allocation-package)
-- [Approaches](#approaches)
 
 
 ## Introduction
@@ -53,7 +52,7 @@ for that we consider two possible approaches:
 1. Single Class Diagram Approach – Create one comprehensive class diagram for the entire system and divide it into packages.
 2. Package-Wise Class Diagrams Approach – Create separate class diagrams for each package
 
-In this guide, we will explore both approaches.
+In this guide, we use Single Class Diagram Approach approach
 
 ***
 
@@ -270,27 +269,6 @@ maintainability.
 | PM, Manager | Developer Workload Report =>  show selected Dev currently assigned tasks  and their deadlines, estimated times, their statues, already spend time spent |
 
 ***
-
-## Approaches 
-to divide project into modules we can use these two approaches 
-
-
-#### 1. Single Class Diagram Approach 
-Overall class diagram diagram split it into packages
-- mark each package in overall class diagram
-- mention for each package use cases, entity attr, entity behaviours  
-
-#### 2. Package-Wise Class Diagrams Approach
-Draw seperate class diagrams for each package
-- for each package tasks seperate class diagrams
-    - package task list
-    - package class diagram
-- mention for each package use cases, entity attr, entity behaviours  
-
-## in here we use Single Class Diagram Approach approach
-***
-
-
 
 ------er detailed page  
 -----class diagram detaild - attr, methods 
